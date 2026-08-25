@@ -1,0 +1,9 @@
+# Windows OS files
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editor & logs
+*.log
+.vscode/
+.idea/
