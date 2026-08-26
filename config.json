@@ -1,0 +1,19 @@
+{
+  "AutoClean": true,
+  "Threshold": 80,
+  "CheckInterval": 10,
+  "AutoCleanCooldownMinutes": 3,
+  "SilentMode": false,
+  "ShowDynamicIcon": true,
+  "SmartGameMode": true,
+  "CustomWhitelist": [
+    "obs64",
+    "code",
+    "devenv",
+    "docker",
+    "vmmem",
+    "premiere",
+    "AfterFX",
+    "blender"
+  ]
+}
